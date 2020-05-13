@@ -1,0 +1,7 @@
+---
+lockfile_version: 1
+depends:
+- name: prometheus
+  resolved_source:
+    path: "/home/alex/chef/inspec/prometheus"
+  version_constraints: []

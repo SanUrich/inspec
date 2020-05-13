@@ -1,3 +1,5 @@
+include_controls 'prometheus'
+
 control 'docker' do
   title 'Проверка наличия пакета docker-ce необходимой версии и открытого порта registry:'
   desc 'docker-ce'
